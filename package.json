@@ -16,7 +16,7 @@
         "cookie-parser": "^1.4.3",
         "docusaurus": "^1.14.4",
         "ejs": "^2.5.8",
-        "express": "^4.16.3",
+        "express": "^4.17.3",
         "express-blacklist": "^1.0.3",
         "express-defend": "^1.0.9",
         "express-session": "^1.15.6",
